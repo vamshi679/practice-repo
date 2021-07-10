@@ -120,12 +120,13 @@ p {
 
 @media only screen and (max-width:768px) {
    .mainDiv {
-      height: auto;
+      height: 100%;
       text-align: center;
    }
    .container {
       width: 90%;
-      margin-top: 1.5rem;
+      margin-top: 2.5rem;
+      margin-bottom: 2.5rem;
    }
    h1 {
       padding: 20px 20px;

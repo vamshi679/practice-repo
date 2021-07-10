@@ -97,7 +97,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [klvamshi](https://vamshi679.github.io/practice-repo/)
 - Frontend Mentor - [@vamshi679](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
