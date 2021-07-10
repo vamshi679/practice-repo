@@ -18,7 +18,7 @@
 
 .row2 {
    justify-content: space-around;
-   padding: 35px 5px;
+   padding: 35px 40px 15px 0px;
 }
 
 .col-md-6 {
@@ -27,7 +27,7 @@
 
 .overlay {
    position: absolute;
-   background: hsla(277, 47.1%, 44.5%, 0.77);
+   background: hsla(276.8, 46%, 34.1%, 0.77);
    border-radius: 0 10px 10px 0;
    width: 100%;
    height: 100%;
@@ -38,7 +38,8 @@
 .img-src {
    background-image: url(./images/image-header-desktop.jpg);
    height: 400px;
-   background-repeat: round;
+   background-repeat: no-repeat;
+   background-size: cover;
    border-radius: 0 10px 10px 0;
 }
 
